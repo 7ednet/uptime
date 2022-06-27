@@ -7,9 +7,9 @@ sites:
     url: https://toots.social
   - name: Toots Social's static things
     url: https://s3.toots.social
-  - name: @im.sb Mastodon
+  - name: "@im.sb Mastodon"
     url: https://mastodon.im.sb
-  - name: @im.sb Mastodon's static things
+  - name: "@im.sb Mastodon's static things"
     url: https://s3.imsb.app
 
 status-website:
